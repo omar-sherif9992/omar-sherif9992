@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omar Sherif</h1>
 <h3 align="center">A passionate Fullstack developer from Egypt</h3>
-
-- 📫 How to reach me **omar.sherif9992@gmail.com**
+<img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="40">
+- <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="40"> How to reach me **omar.sherif9992@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/19kPkTgujeBHu1r1D5eVDK8e7BLA7nmT5?usp=sharing](https://drive.google.com/drive/folders/19kPkTgujeBHu1r1D5eVDK8e7BLA7nmT5?usp=sharing)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
