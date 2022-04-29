@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Omar Sherif</h1>
-<h3 align="center">A passionate Fullstack developer from Egypt</h3>
+<div align="center"><img src="OSA-Logo2.jpg" alt="OSA Logo" height="170" ></div>
+
+<h1 align="center" textColor="blue">Hi 👋, I'm Omar Sherif Ali</h1>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=0D46AD&center=true&width=1000&height=61&lines=Computer+Science+and+Engineering;Competitive+Programmer;UI%2FUX+Developer;Machine+Learning+Developer;MERN+Stack+Developer;Mobile+Application+Developer;Software+Engineer)](https://git.io/typing-svg)
+
+
 <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="40">
 - <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="40"> How to reach me **omar.sherif9992@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/19kPkTgujeBHu1r1D5eVDK8e7BLA7nmT5?usp=sharing](https://drive.google.com/drive/folders/19kPkTgujeBHu1r1D5eVDK8e7BLA7nmT5?usp=sharing)
-
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/19kPkTgujeBHu1r1D5eVDK8e7BLA7nmT5?usp=sharing" download target="_blank">me</a>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
 <h3 align="left">Connect with me:</h3>
