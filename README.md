@@ -56,10 +56,10 @@
 📄<a href="https://drive.google.com/file/d/1r316QCc20LrpqA0KQmjbRxXXCY_hg9as/view?usp=sharing" download target="_blank">CV</a>    ·
   :telephone_receiver: <a href="tel:+201008757772" >Call Me</a>
     ·
-    :mailbox: <a href="mailto:omar.sherif9992@gmail.com?cc=&subject=Omar's%20Portfolio&body=Dear%20Omar%20Sherif%20Ali%2C%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0ARegards%2C%0D%0A%5BYour%20Name%5D%0D%0A%5BYour%20Phone%20Number%5D%0D%0A%5BLinkedin%20to%20connect%5D%0D%0A%5BCompany%20name%5D%0D%0A%0D%0A" target="_blank">
+    :mailbox: <a href="mailto:omar.sherif9992@gmail.com?cc=&subject=Omar's%20Github&body=Dear%20Omar%20Sherif%20Ali%2C%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0ARegards%2C%0D%0A%5BYour%20Name%5D%0D%0A%5BYour%20Phone%20Number%5D%0D%0A%5BLinkedin%20to%20connect%5D%0D%0A%5BCompany%20name%5D%0D%0A%0D%0A" target="_blank">
                                                                  Mail Me </a>
    	      ·
-    :muscle: <a href="mailto:osa.helpme@gmail.com?subject=I%20want%20to%20be%20a%20Contributor&body=Dear%20Omar%20Sherif%2C%0A%0A%3D%3D%3E%20name%0A%3D%3D%3E%20email%0A%3D%3D%3E%20phone%20number%0A%3D%3D%3E%20github%20link%0A%0A%0A%0ANeeded%20Skills%3A%0A%0A1-Familiar%20with%20Python%0A2-Familiar%20with%20BeautifulSoup%0A3-Familiar%20with%20csv%0A4-Familiar%20with%20pandas%20%0A%0AI%20acquire%20all%20those%20needed%20Skills.%0A%0Aregards">Be a Contributer</a>
+    :muscle: <a href="mailto:osa.helpme@gmail.com?subject=I%20want%20to%20be%20a%20Contributor&body=Dear%20Omar%20Sherif%20Ali%2C%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0ARegards%2C%0D%0A%5BYour%20Name%5D%0D%0A%5BYour%20Phone%20Number%5D%0D%0A%5BLinkedin%20to%20connect%5D%0D%0A%5BCompany%20name%5D%0D%0A%0D%0A" target="_blank">Be a Contributer</a>
   </p>
   <p>
   
