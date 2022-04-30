@@ -1,5 +1,7 @@
 
-<h1 align="center" >Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Omar Sherif Ali</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=omar-sherif9992&show_icons=true&theme=radical&icon_color=0D46AD&text_color=fff&title_color=fff&border_radius=20">
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Omar Sherif Ali</h1>
 <span>
 <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="left">
 <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="right">
@@ -62,9 +64,11 @@
    	      ·
     :muscle: <a href="mailto:osa.helpme@gmail.com?subject=I%20want%20to%20be%20a%20Contributor&body=Dear%20Omar%20Sherif%2C%0A%0A%3D%3D%3E%20name%0A%3D%3D%3E%20email%0A%3D%3D%3E%20phone%20number%0A%3D%3D%3E%20github%20link%0A%0A%0A%0ANeeded%20Skills%3A%0A%0A1-Familiar%20with%20Python%0A2-Familiar%20with%20BeautifulSoup%0A3-Familiar%20with%20csv%0A4-Familiar%20with%20pandas%20%0A%0AI%20acquire%20all%20those%20needed%20Skills.%0A%0Aregards">Be a Contributer</a>
   </p>
+  <p align="center">
+  -mom
+  -
+  </p>
   
-  
-<h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
     <td>
@@ -89,8 +93,11 @@
   </table>
 
 <p><img  src="https://github-readme-stats.vercel.app/api?username=omar-sherif9992&show_icons=true&locale=en" alt="omar-sherif9992" height="200" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-sherif9992&show_icons=true&locale=en&layout=compact" alt="omar-sherif9992" height="200"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-sherif9992&show_icons=true&locale=en&layout=compact&" alt="omar-sherif9992" height="200"/>
   </p>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=omar-sherif9992&" alt="omar-sherif9992" /></p>
 </div>
+
+<p  align="center">Made with ❤️ by Omar Sherif Ali - OSA.</p>
+<p  align="center">© OSA - 2022</p>
