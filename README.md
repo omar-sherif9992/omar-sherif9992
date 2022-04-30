@@ -1,6 +1,3 @@
-
-<img src="https://github-readme-stats.vercel.app/api?username=omar-sherif9992&show_icons=true&theme=radical&icon_color=0D46AD&text_color=fff&title_color=fff&border_radius=20">
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Omar Sherif Ali</h1>
 <span>
 <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="left">
@@ -52,7 +49,7 @@
   
   <p align="center">
     <img src="OSA-Logo2.jpg" alt="OSA Logo" height="170" >
-  
+    
 <a href="https://drive.google.com/file/d/1r316QCc20LrpqA0KQmjbRxXXCY_hg9as/view?usp=sharing" ><strong>My Portfolio ! </strong></a>
                                                                   
 <br />
@@ -64,9 +61,12 @@
    	      ·
     :muscle: <a href="mailto:osa.helpme@gmail.com?subject=I%20want%20to%20be%20a%20Contributor&body=Dear%20Omar%20Sherif%2C%0A%0A%3D%3D%3E%20name%0A%3D%3D%3E%20email%0A%3D%3D%3E%20phone%20number%0A%3D%3D%3E%20github%20link%0A%0A%0A%0ANeeded%20Skills%3A%0A%0A1-Familiar%20with%20Python%0A2-Familiar%20with%20BeautifulSoup%0A3-Familiar%20with%20csv%0A4-Familiar%20with%20pandas%20%0A%0AI%20acquire%20all%20those%20needed%20Skills.%0A%0Aregards">Be a Contributer</a>
   </p>
-  <p align="center">
-  -mom
-  -
+  <p>
+  
+<p> 👩‍💻 Currently I'm pursuing a Bachelor's degree in Computer Science and Engineering ~<span align="center"><a href=""><strong>The German University in Cairo </strong></a>:school:</span></p>
+
+  <p>I :heart: being creative and building :running: Useful Software and Hardware Applications that may serve the Community :pray: one day</p>
+  <p>Come on :speech_balloon: me !</p>
   </p>
   
 <table>
@@ -92,11 +92,13 @@
   
   </table>
 
-<p><img  src="https://github-readme-stats.vercel.app/api?username=omar-sherif9992&show_icons=true&locale=en" alt="omar-sherif9992" height="200" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-sherif9992&show_icons=true&locale=en&layout=compact&" alt="omar-sherif9992" height="200"/>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=omar-sherif9992&show_icons=true&theme=radical&icon_color=0D46AD&text_color=fff&title_color=fff" height="170">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-sherif9992&layout=compact&theme=radical&title_color=fff&text_color=fff" height="170">
   </p>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=omar-sherif9992&" alt="omar-sherif9992" /></p>
+<p><img  src="http://github-readme-streak-stats.herokuapp.com?user=omar-sherif9992&theme=radical&date_format=j%20M%5B%20Y%5D&ring=ADADAD&sideNums=FFFFFF&currStreakNum=FFFFFF&fire=9E9BAD&dates=FFFFFF&currStreakLabel=0D46AD&sideLabels=0D46AD&border=DD2727" alt="omar-sherif9992" height="170" /></p>
 </div>
 
 <p  align="center">Made with ❤️ by Omar Sherif Ali - OSA.</p>
