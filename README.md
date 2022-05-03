@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="right">
 </span>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=0D46AD&center=true&width=1000&height=61&lines=Computer+Science+and+Engineering;Competitive+Programmer;UI%2FUX+Developer;Machine+Learning+Developer;MERN+Stack+Developer;Mobile+Application+Developer;Software+Engineer)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=0D46AD&center=true&width=1000&height=61&lines=Computer+Science+and+Engineering+Student;Competitive+Programmer;UI%2FUX+Developer;Machine+Learning+Developer;MERN+Stack+Developer;Mobile+Application+Developer;Software+Engineer;Python+Developer)](#)
 
 
 
