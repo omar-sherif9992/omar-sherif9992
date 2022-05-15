@@ -63,9 +63,10 @@
   </p>
   <p>
   
-<p> 👩‍💻 Currently I'm pursuing a Bachelor's degree in Computer Science and Engineering ~<span align="center"><a href=""><strong>The German University in Cairo </strong></a>:school:</span></p>
+<p> Currently I'm pursuing 📜 a Bachelor's degree in Computer Science and Engineering ~<span align="center"><a href=""><strong>The German University in Cairo </strong></a>:school:</span></p>
 
   <p>I :heart: being creative 💡 and building :running: Useful Software and Hardware Applications that may serve the Community :pray: one day</p>
+  <p>I'm looking to work on real big Projects 👩‍💻 and seeking for internship</p>
   <p>Come on :speech_balloon: me !</p>
   </p>
   
