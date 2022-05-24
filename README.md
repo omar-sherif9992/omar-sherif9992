@@ -50,7 +50,7 @@
   <p align="center">
     <img src="OSA-Logo2.jpg" alt="OSA Logo" height="170" >
     
-<a href="https://drive.google.com/file/d/1r316QCc20LrpqA0KQmjbRxXXCY_hg9as/view?usp=sharing" ><strong>My Portfolio ! </strong></a>
+<a href="https://osa-portfolio.vercel.app/" ><strong>My Portfolio ! </strong></a>
                                                                   
 <br />
 📄<a href="https://drive.google.com/file/d/1r316QCc20LrpqA0KQmjbRxXXCY_hg9as/view?usp=sharing" download target="_blank">CV</a>    ·
