@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Omar Sherif Ali</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, I'm Omar Sherif Ali</h1>
 <span>
 <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="left" >
 <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="20" height="20" align="right" >
