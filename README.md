@@ -48,7 +48,7 @@
 
   
   <p align="center">
-    <img src="OSA-Logo2.jpg" alt="OSA Logo" height="170" >
+    <img src="logo-animated-1.gif" alt="OSA Logo" height="230">
     
 <a href="https://osa-portfolio.vercel.app/" ><strong>My Portfolio ! </strong></a>
                                                                   
