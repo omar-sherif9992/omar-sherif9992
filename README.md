@@ -19,7 +19,7 @@
 
  <tr border="0" bgcolor="#ffffff">
     <td border="0" bgcolor="#ffffff">
-<a href="https://linkedin.com/in/omar-sherif-2152021a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-sherif-2152021a3/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omar-sherif-osa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-sherif-2152021a3/" height="30" width="40" /></a>
       </td></tr>  
    <tr>
     <td>
