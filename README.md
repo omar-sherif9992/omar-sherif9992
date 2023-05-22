@@ -94,9 +94,9 @@
   </table>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=omar-sherif9992&show_icons=true&theme=radical&icon_color=0D46AD&text_color=fff&title_color=fff" height="170">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-sherif9992&layout=compact&theme=radical&title_color=fff&text_color=fff" height="170">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=omar-sherif9992&show_icons=true&theme=radical&icon_color=0D46AD&text_color=fff&title_color=fff" height="170">
+   -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-sherif9992&layout=compact&theme=radical&title_color=fff&text_color=fff" height="170"> -->
   </p>
 
 <p><img  src="http://github-readme-streak-stats.herokuapp.com?user=omar-sherif9992&theme=radical&date_format=j%20M%5B%20Y%5D&ring=ADADAD&sideNums=FFFFFF&currStreakNum=FFFFFF&fire=9E9BAD&dates=FFFFFF&currStreakLabel=0D46AD&sideLabels=0D46AD&border=DD2727" alt="omar-sherif9992" height="170" /></p>
