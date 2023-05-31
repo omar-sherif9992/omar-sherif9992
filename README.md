@@ -53,7 +53,7 @@
 <a href="https://osa-portfolio.vercel.app/" ><strong>My Portfolio ! </strong></a>
                                                                   
 <br />
-📄<a href="https://drive.google.com/file/d/1r316QCc20LrpqA0KQmjbRxXXCY_hg9as/view?usp=sharing" download target="_blank">CV</a>    ·
+📄<a href="https://drive.google.com/file/d/1QyBWTurZ4MFq8ePxewEVQZ9kzTwtj1PI/view?usp=sharing" download target="_blank">CV</a>    ·
   :telephone_receiver: <a href="tel:+201008757772" >Call Me +201008757772</a>
     ·
     :mailbox: <a href="mailto:omar.sherif9992@gmail.com?cc=&subject=Omar's%20Github&body=Dear%20Omar%20Sherif%20Ali%2C%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0ARegards%2C%0D%0A%5BYour%20Name%5D%0D%0A%5BYour%20Phone%20Number%5D%0D%0A%5BLinkedin%20to%20connect%5D%0D%0A%5BCompany%20name%5D%0D%0A%0D%0A" target="_blank">
