@@ -13,7 +13,7 @@
   
  <tr border="0" bgcolor="#ffffff">
     <td border="0" bgcolor="#ffffff">
-    <a href="https://dev.to/omar_sherif9992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="omar_sherif9992" height="30" width="40" /></a>
+    <a href="https://www.salesforce.com/trailblazer/omarsherif9992" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/873/873124.png" alt="omar_sherif9992" height="40" width="40" /></a>
     </td>
  </tr>
 
