@@ -75,7 +75,8 @@
   <tr>
     <td>
       <h3 align="center">Front End</h3>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/omar-sherif9992/omar-sherif9992/assets/69806823/0ae38e7f-a9fe-42c5-bd8c-dc392d2463f7" alt="tailwindcss" width="40" height="40"/></a>     
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/omar-sherif9992/omar-sherif9992/assets/69806823/0ae38e7f-a9fe-42c5-bd8c-dc392d2463f7" alt="tailwindcss" width="40" height="40"/></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/omar-sherif9992/omar-sherif9992/assets/69806823/35a28f1a-d1d0-4531-ba3d-ddf5fccb010c" alt="react-redux" width="40" height="40"/></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/omar-sherif9992/omar-sherif9992/assets/69806823/0393cd92-2d49-4c43-9719-5b13ffba7fac" alt="Sveltejs" width="40" height="40"/></a>
+      
 </td>
     
     
